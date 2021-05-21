@@ -74,7 +74,7 @@ function createFormProducts(){?>
             </div>
             <div class="form-group">
                 <label for="picture">Url Foto:</label>
-                <input type="text" class="form-control" placeholder="Enter picture" name="picture">required
+                <input type="text" class="form-control" placeholder="Enter picture" name="picture"required>
             </div>
             <div class="form-group">
                 <label for="category">Categoria ID:</label>
